@@ -1,22 +1,11 @@
 {
-  "appraisalTemplates": [
+  "posts": [
     {
-      "id": "4d5957f0-8b77-4064-9ce4-a785a2470bfb",
-      "subject": "Test template",
-      "status": "ACTIVE",
-      "deadline": "2019-08-15"
-    },
-    {
-      "id": "4d5957f0-8b77-4064-9ce4-a785a2470bfb",
-      "subject": "Follow up and closing 2018",
-      "status": "INACTIVE",
-      "deadline": "2019-08-15"
-    },
-    {
-      "id": "4d5957f0-8b77-4064-9ce4-a785a2470bfb",
-      "subject": "Follow up and closing 2017",
-      "status": "INACTIVE",
-      "deadline": "2019-08-15"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
