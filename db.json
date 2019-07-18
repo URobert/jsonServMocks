@@ -4,18 +4,21 @@
       "id": "4d5957f0-8b77-4064-9ce4-a785a2470bfb",
       "subject": "Test template",
       "status": "ACTIVE",
+      "createdBy": "Thomas Cook",
       "deadline": "2019-08-15"
     },
     {
       "id": "4d5957f0-8b77-4064-9ce4-a785a2470AAA",
       "subject": "Follow up and closing 2018",
       "status": "INACTIVE",
+      "createdBy": "Thomas Cook",
       "deadline": "2019-08-15"
     },
     {
       "id": "4d5957f0-8b77-4064-9ce4-a785a2470BBB",
       "subject": "Follow up and closing 2017",
       "status": "INACTIVE",
+      "createdBy": "Thomas Cook",
       "deadline": "2019-08-15"
     }
   ]
