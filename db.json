@@ -6,7 +6,30 @@
       "status": "ACTIVE",
       "createdBy": "Thomas Cook",
       "lastEdited": "19.07.2019",
-      "deadline": "10.10.2019"
+      "deadline": "10.10.2019",
+      "appraisalSections: [
+        {
+          "id": "4d5957f0-8b77-4064-9ce4-a785a2000000",
+          "name": "Target setting",
+          "empAccess": true,
+          "language": "en",
+          "index": 1
+        },
+        {
+          "id": "4d5957f0-8b77-4064-9ce4-a785a2111111",
+          "name": "Feedback",
+          "empAccess": true,
+          "language": "en",
+          "index": 2
+        },
+        {
+          "id": "4d5957f0-8b77-4064-9ce4-a785a2222222",
+          "name": "Development plan",
+          "empAccess": false,
+          "language": "en",
+          "index": 3
+        }
+      ]
     },
     {
       "id": "4d5957f0-8b77-4064-9ce4-a785a2470AAA",
