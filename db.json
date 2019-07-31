@@ -7,6 +7,7 @@
       "createdBy": "Thomas Cook",
       "lastEdited": "19.07.2019",
       "deadline": "10.10.2019",
+      "language": "en",
       "sectionList": [
          {
           "id": "4d5957f0-8b77-4064-9ce4-a785a2470000",
@@ -38,6 +39,7 @@
       "createdBy": "Thomas Cook",
       "lastEdited": "18.07.2019",
       "deadline": "10.10.2019",
+      "language": "en",
       "sectionList": []
     },
     {
@@ -47,6 +49,7 @@
       "createdBy": "Thomas Cook",
       "lastEdited": "18.07.2019",
       "deadline": "22.10.2019",
+      "language": "en",
       "sectionList": []
     }
   ]
