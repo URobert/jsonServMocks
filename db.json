@@ -14,7 +14,28 @@
           "name": "Target setting",
           "empAccess": true,
           "language": "en",
-          "index": 1
+          "index": 1,
+          "components": [
+          {
+		"id": "2222222",
+		"text": "Developtment component 2",
+		"type": "MULTIPLE_CHOICE",
+		"options": [{
+			"text": "option 1",
+			"index": 1
+		}, {
+			"text": "option 2",
+			"index": 2
+		}],
+		"index": 1
+	    }, 
+            {
+              "id": "3333333333",
+              "text": "Motivation updated for real",
+	      "type": "TEXT",
+	      "index": 2
+            }
+          ]
          },
          {
           "id": "4d5957f0-8b77-4064-9ce4-a785a2470111",
