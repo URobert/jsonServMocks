@@ -48,14 +48,14 @@
 		"options": [{
 			     "text": "Work motivation",
 			     "selfEvalGrade": 3,
-			     "managerEvalGrad": 3,
+			     "managerEvalGrade": 3,
 			     "comment": "",
 			     "index": 1
 		           },
 			   {
 			     "text": "Work conditions",
 			     "selfEvalGrade": 3,
-			     "managerEvalGrad": 3,
+			     "managerEvalGrade": 3,
 			     "comment": "",
                	             "index": 2
 		}],
