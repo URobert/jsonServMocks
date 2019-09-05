@@ -20,147 +20,94 @@
           "language": "en",
           "index": 1,
           "components": [
-          {
-		"id": "2222222",
-		"text": "Additional development activities",
-		"type": "MULTIPLE_CHOICE",
-		"options": [{
-			"text": "Interested in international assignments",
-			"index": 1,
-			"checkedByUser": false
-		}, {
-			"text": "Interested in horizontal development",
-			"index": 2,
-			"checkedByUser": true
-		}],
-		"index": 1
-	    }, 
             {
-              "id": "3333333333",
-              "text": "Development",
+              "id": "111111",
+              "text": "Personal goals for this period",
+	      "type": "TEXT",
+	      "userAnswer": "",
+	      "index": 1
+            },
+            {
+              "id": "222222",
+              "text": "Prerequisites",
 	      "type": "TEXT",
 	      "userAnswer": "",
 	      "index": 2
-            },
-	    {
-		"text": "Scale component",
-		"type": "SCALE",
-		"options": [{
-			     "text": "Work motivation",
-			     "selfEvalGrade": 3,
-			     "managerEvalGrade": 3,
-			     "comment": "",
-			     "index": 1
-		           },
-			   {
-			     "text": "Work conditions",
-			     "selfEvalGrade": 5,
-			     "managerEvalGrade": 5,
-			     "comment": "",
-               	             "index": 2
-		}],
-		"index": 3
-	     }
+            }
           ]
          },
          {
           "id": "4d5957f0-8b77-4064-9ce4-a785a2470111",
-          "name": "Feedback",
+          "name": "Development",
           "empAccess": true,
           "language": "en",
           "index": 2,
 	  "components": [
+	  {
+		"id": "1111111",
+		"text": "Competence evaluations",
+		"type": "SCALE",
+		"options": [{
+			     "text": "Sales management",
+			     "selfEvalGrade": 3,
+			     "managerEvalGrade": 3,
+			     "comment": "",
+			     "index": 1
+			   },
+			   {
+			     "text": "Presentation skills",
+			     "selfEvalGrade": 5,
+			     "managerEvalGrade": 5,
+			     "comment": "",
+			     "index": 2
+		}],
+		"index": 1
+	  },
           {
-		"id": "2222222",
-		"text": "Additional development activities",
+              "id": "222222",
+              "text": "Development activities",
+	      "type": "TEXT",
+	      "userAnswer": "",
+	      "index": 2
+          },	
+          {
+		"id": "333333",
+		"text": "Other items",
 		"type": "MULTIPLE_CHOICE",
 		"options": [{
 			"text": "Interested in international assignments",
 			"index": 1,
 			"checkedByUser": false
 		}, {
-			"text": "Interested in horizontal development",
+			"text": "Interested in job rotation",
 			"index": 2,
 			"checkedByUser": true
 		}],
 		"index": 1
-	    }, 
-            {
-              "id": "3333333333",
-              "text": "Development",
-	      "type": "TEXT",
-	      "userAnswer": "",
-	      "index": 2
-            },
-	    {
-		"text": "Scale component",
-		"type": "SCALE",
-		"options": [{
-			     "text": "Work motivation",
-			     "selfEvalGrade": 3,
-			     "managerEvalGrade": 3,
-			     "comment": "",
-			     "index": 1
-		           },
-			   {
-			     "text": "Work conditions",
-			     "selfEvalGrade": 5,
-			     "managerEvalGrade": 5,
-			     "comment": "",
-               	             "index": 2
-		}],
-		"index": 3
-	     }
+	    }  
           ]
          },
          {
           "id": "4d5957f0-8b77-4064-9ce4-a785a2470222",
-          "name": "Development",
+          "name": "Feedback",
           "empAccess": true,
           "language": "en",
           "index": 3,
 	  "components": [
           {
-		"id": "2222222",
-		"text": "Additional development activities",
-		"type": "MULTIPLE_CHOICE",
-		"options": [{
-			"text": "Interested in international assignments",
-			"index": 1,
-			"checkedByUser": false
-		}, {
-			"text": "Interested in horizontal development",
-			"index": 2,
-			"checkedByUser": true
-		}],
-		"index": 1
-	    }, 
+              "id": "111111",
+              "text": "Feedback to employee",
+	      "type": "TEXT",
+	      "userAnswer": "",
+	      "index": 1
+            },
             {
-              "id": "3333333333",
-              "text": "Development",
+              "id": "222222",
+              "text": "Feedback to manager",
 	      "type": "TEXT",
 	      "userAnswer": "",
 	      "index": 2
-            },
-	    {
-		"text": "Scale component",
-		"type": "SCALE",
-		"options": [{
-			     "text": "Work motivation",
-			     "selfEvalGrade": 3,
-			     "managerEvalGrade": 3,
-			     "comment": "",
-			     "index": 1
-		           },
-			   {
-			     "text": "Work conditions",
-			     "selfEvalGrade": 5,
-			     "managerEvalGrade": 5,
-			     "comment": "",
-               	             "index": 2
-		}],
-		"index": 3
-	     }
+            }
           ]
          }
        ]
